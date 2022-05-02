@@ -5,7 +5,7 @@ export const attributes = {
       link: '/#portofolio',
       text: 'My work',
     },
-    heading: "I'm Paco Cu, and I create",
+    heading: "I'm Jana Abfalterer, and I create",
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
@@ -14,30 +14,30 @@ export const attributes = {
       linkedin: { link: 'https://linkedin.com', show: true },
     },
     typed: [
-      { text: 'fast websites.' },
-      { text: 'beautiful logos.' },
+      { text: 'responsive websites.' },
+      { text: 'beautiful applications.' },
       { text: 'great experiences.' },
     ],
   },
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
+    text: 'I am an aspiring web-developer based in Vienna. I am currently working on expanding my portfolio at the bootcamp by UpLeveled GmbH.\n',
   },
   features: [
     {
       icon: 'monitor-screenshot',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'coming soon.\n',
       title: 'UI/UX',
     },
     {
       icon: 'draw',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'coming soon.\n',
       title: 'Logo Design',
     },
     {
       icon: 'xml',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'coming soon.\n',
       title: 'Web Development',
     },
   ],
@@ -82,5 +82,5 @@ export const attributes = {
     ],
     title: 'My work',
   },
-  footer: { text: '© John Doe' },
+  footer: { text: '© Jana Abfalterer' },
 };
