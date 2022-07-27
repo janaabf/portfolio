@@ -1,6 +1,8 @@
-# Portfolio CMS Jana
+# Portfolio
 
-## Portfolio template, made using Netlify CMS
+My very first project and repository, made duing the UpLeveled Full-Stack Bootcamp.
+
+I used a Portfolio template, made using Netlify CMS
 
 # Deploy on Netlify
 
